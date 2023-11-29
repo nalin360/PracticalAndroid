@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticalAndroid</string>
+    <string name="student_name">Student Name</string>
+    <string name="salary">salary</string>
+    <string name="designation">Designation</string>
+    <string name="name">Name</string>
+    <string name="next_page">Next Page</string>
+</resources>
